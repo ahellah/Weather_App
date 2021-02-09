@@ -1,2 +1,8 @@
-# Weather_App
- Asynchronous web app that uses Web API and user data to dynamically update the UI. 
+# Weather-Journal App Project
+
+## Overview
+Createing an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+
+## Instructions
+This project required modifying the `server.js` file and the `website/app.js` file. using `index.html` for element references, and `style.css` to style application to customized perfection.
+
